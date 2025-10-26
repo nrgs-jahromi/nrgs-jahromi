@@ -36,9 +36,10 @@ const narges = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrgs-jahromi&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-narges.vercel.app/api?username=nrgs-jahromi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrgs-jahromi&theme=radical&hide_border=true" height="160" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrgs-jahromi&layout=compact&theme=radical&hide_border=true" height="130" />
